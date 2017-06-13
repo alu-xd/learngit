@@ -3,3 +3,5 @@ my git study timeline
 day01 git install
 
 day02 git init
+
+day03 git config
